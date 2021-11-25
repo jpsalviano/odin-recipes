@@ -1,4 +1,4 @@
 # The Odin Project
 ## Project: Recipes
-- The very first project from TOP, intended for practicing the first HTML lessons.
-- The project can be viewed [here](https://jpsalviano.github.io/odin-recipes/).
+- The very first project from TOP, building a simple recipes website, intended for practicing the first HTML lessons.
+- The website can be visited [here](https://jpsalviano.github.io/odin-recipes/).
