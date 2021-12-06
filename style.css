@@ -1,0 +1,19 @@
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: lightsteelblue;
+}
+
+header {
+  text-align: center;
+}
+
+.big-food {
+  height: auto;
+  width: 400px;
+}
+
+.smaller-food {
+  height: auto;
+  width: 250px;
+}
